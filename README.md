@@ -1,18 +1,4 @@
-# RealEstate-Agent
-```markdown
 # RealEstate-Agent 🏠
-
-> **A Full-Stack Multi-Agentic Conversational AI System for Real Estate Document Analysis**
-
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-009688.svg)](https://fastapi.tiangolo.com)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-18-61DAFB.svg)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)](https://typescriptlang.org)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)](https://mongodb.com)
-
----
 
 ## 🎯 Overview
 
